@@ -1,1 +1,17 @@
 /* mes styles pour les portfolio */
+body{
+ margin:0;
+ padding: 0;
+   /* hauteur de 100 view height la hauteur de l'écran 100 % de la hauteur de l'écran */
+   height: 150vh;
+
+}
+.img-profil{
+    width: 300px;
+}
+p{
+    font-size: 1.5em;
+}
+.card{
+    
+}
